@@ -1,6 +1,6 @@
 # SoftwareEngineering_ReferenceLibrary
-Fall 2018
+Project made Fall 2018
 
-includes a project description and user manual.
-src folder holds all source code
-text files are used with the source code, acting as a database
+<br>includes a project description and user manual.
+<br>src folder holds all source code
+<br>text files are used with the source code, acting as a database
