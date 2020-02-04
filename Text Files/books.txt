@@ -1,0 +1,1 @@
+Hardware Basics:1:zuckerman:Hardware:120:Z12345:4:6:30:Software Basics:1:pham:Software:212:Z23456:5:3:30:Databases:1:dos reis:Software:87:Z34567:3:5:30:Java Programming:2:chen:zuckerman:Software:170:Z45678:3:5:35:Operating Systems:1:pham:Software:200:Z12378:5:0:30:
